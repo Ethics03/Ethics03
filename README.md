@@ -1,5 +1,5 @@
 
-  ![logo](https://github.com/Ethics03/Ethics03/blob/main/soskhee.gif)
+  ![logo](https://github.com/Ethics03/Ethics03/blob/main/ichi.gif)
 
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
 <h3 align="center">A cybersecurity enthusiast and a Competitive Programmer</h3>
