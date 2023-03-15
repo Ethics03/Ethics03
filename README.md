@@ -1,6 +1,6 @@
-<p align = "center")
-![logo](https://github.com/Ethics03/Ethics03/blob/main/soskhee.gif)
-</p>
+
+                                            ![logo](https://github.com/Ethics03/Ethics03/blob/main/soskhee.gif)
+
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
 <h3 align="center">A cybersecurity enthusiast and a Competitive Programmer</h3>
 
