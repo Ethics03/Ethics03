@@ -2,7 +2,7 @@
   ![logo](https://github.com/Ethics03/Ethics03/blob/main/soskhee.gif)
 
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
-<h3 align="center">A cybersecurity enthusiast and a Competitive Programmer</h3>
+<h3 align="center">A cybersecurity enthusiast and  Competitive Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethics03&label=Profile%20views&color=0e75b6&style=flat" alt="ethics03" /> </p>
