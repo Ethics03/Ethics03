@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **java and algorithms**
 
-- 💬 Ask me about **algorithms and discord bot dev**
+- 💬 Ask me about **algorithms and Cybersecurity related topics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
