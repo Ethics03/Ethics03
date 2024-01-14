@@ -18,13 +18,13 @@
 <p align="left">
 <a href="https://twitter.com/___rachit___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___rachit___" height="30" width="40" /></a>
 <a href="https://instagram.com/___rachit____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___rachit____" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rasrasdads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rasrasdads" height="30" width="40" /></a>\
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+<a href="https://codeforces.com/profile/rasrasdads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rasrasdads" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,css,nodejs,javascript,vim,python,cpp,c,html,bash,mongodb" /></a>
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&locale=en&layout=compact" alt="ethics03" /></p>
