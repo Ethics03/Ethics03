@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,css,nodejs,javascript,vim,python,c++,c,HTML,bash,mongodb" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,css,nodejs,javascript,vim,python,C++,c,html,bash,mongodb" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&locale=en&layout=compact" alt="ethics03" /></p>
