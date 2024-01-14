@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
-<h3 align="center">A Cybersecurity Enthusiast and  Competitive Programmer</h3>
+<h3 align="center">A Cybersecurity enthusiast and Competitive Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethics03&label=Profile%20views&color=0e75b6&style=flat" alt="ethics03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/___rachit___" target="blank"><img src="https://img.shields.io/twitter/follow/___rachit___?logo=twitter&style=for-the-badge" alt="___rachit___" /></a> </p>
 
-- 🌱 I’m currently learning **WebDev and Algorithms**
+- 🌱 I’m currently learning **Full-Stack WebDev(MERN)**
 
 - 💬 Ask me about **Algorithms And Cybersecurity**
 
