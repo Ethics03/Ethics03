@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Ethics03/Ethics03/blob/main/soskhee.gif"width: 80%;" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rachit Srivastava</h1>
 <h3 align="center">A Cybersecurity enthusiast and Competitive Programmer</h3>
