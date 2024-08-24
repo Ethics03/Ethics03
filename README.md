@@ -32,10 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&" alt="ethics03" /></p>
 
-<details>
-  <summary>:zap: Discord Status</summary>
-</br>
-<a href="">
-<img height="80px" src="" />
-</a>
-</details>
+
