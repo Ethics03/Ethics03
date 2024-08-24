@@ -35,7 +35,7 @@
 <details>
   <summary>:zap: Discord Status</summary>
 </br>
-<a href="https://discord.com/users/747712461448151154">
+<a href="">
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/591470828370264075.png" />
 </a>
 </details>
