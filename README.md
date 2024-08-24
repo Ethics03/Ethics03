@@ -18,7 +18,8 @@
 <p align="left">
 <a href="https://twitter.com/___rachit___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___rachit___" height="30" width="40" /></a>
 <a href="https://instagram.com/___rachit____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___rachit____" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rachit-srivastava-3b764527a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rasrasdads" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rachit-srivastava-3b764527a/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/47a74a87-982a-4e25-837f-4bb57161a7f2)
+" alt="rachit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
