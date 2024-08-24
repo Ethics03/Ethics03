@@ -31,3 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&locale=en" alt="ethics03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&" alt="ethics03" /></p>
+
+<details>
+  <summary>:zap: Discord Status</summary>
+</br>
+<a href="https://discord.com/users/747712461448151154">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/591470828370264075.png" />
+</a>
+</details>
