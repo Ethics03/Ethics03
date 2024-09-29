@@ -26,9 +26,9 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,css,tailwind,react,nodejs,mongodb,figma,cpp,java,vim,html,bash,git" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&locale=en&layout=compact" alt="ethics03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&theme=dark&locale=en&layout=compact" alt="ethics03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&locale=en" alt="ethics03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&theme=dark&locale=en" alt="ethics03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&" alt="ethics03" /></p>
 
