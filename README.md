@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&theme=dark&locale=en" alt="ethics03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&" alt="ethics03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&theme=dark" alt="ethics03" /></p>
 
 
