@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/___rachit___" target="blank"><img src="https://img.shields.io/twitter/follow/___rachit___?logo=twitter&style=for-the-badge" alt="___rachit___" /></a> </p>
 
-- 🌱 I’m currently learning **Full-Stack WebDev**
+- 🌱 I’m currently into **Full-Stack WebDev.**
 
-- 💬 Ask me about **Algorithms And Cybersecurity**
+- 💬 Ask me about **Algorithms And Cybersecurity.**
 
 - 🤖 Grinding Competitive Programming.
 
