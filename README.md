@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethics03&label=Profile%20views&color=0e75b6&style=flat" alt="ethics03" /> </p>
 
-<p align="left"> <a href="https://twitter.com/___rachit___" target="blank"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="___rachit___" /></a> </p>
+<p align="left"> <a href="https://twitter.com/___rachit___" target="blank"><img src="https://img.shields.io/twitter/follow/___rachit___?logo=twitter&style=for-the-badge" alt="___rachit___" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack WebDev**
 
