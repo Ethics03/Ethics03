@@ -14,6 +14,8 @@
 
 - 🤖 Grinding Competitive Programming.
 
+- 👾 Got into Machine Learning for Automation.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/___rachit___" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="___rachit___" height="40" width="40" /></a>
