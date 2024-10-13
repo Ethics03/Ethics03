@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently into **Full-Stack WebDev.**
 
-- 💬 Ask me about **Algorithms And Cybersecurity.**
+- 💬 Ask me about **Algorithms And DevOps.**
 
 - 🤖 Grinding Competitive Programming.
 
