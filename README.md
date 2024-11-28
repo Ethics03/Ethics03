@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Algorithms And DevOps.**
 
-- 🤖 Grinding Competitive Programming.
+- 🤖 Grinding Leetcode.
 
 - 👾 Got into Machine Learning for Automation.
 
