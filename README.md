@@ -14,7 +14,7 @@
 
 - 🤖 Grinding Leetcode.
 
-- 👾 Got into Machine Learning for Automation.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
