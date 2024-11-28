@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently into **Full-Stack WebDev.**
 
-- 💬 Ask me about **Algorithms And DevOps.**
+- 💬 Ask me about **DevOps and CyberSec.**
 
 - 🤖 Grinding Leetcode.
 
