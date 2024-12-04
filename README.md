@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently into **Full-Stack WebDev.**
  
-- 💡 Currently working on Backend of **[UniCon](https://github.com/Ethics03/UniCon) - Startup** 
+- 💡 Currently working on Backend of **[UniCon](https://github.com/Ethics03/UniCon) - My Startup** 
 
 - 💬 Ask me about **DevOps and CyberSec.**
 
