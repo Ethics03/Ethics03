@@ -31,10 +31,10 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,go,css,tailwind,react,nextjs,nestjs,nodejs,docker,prisma,postgres,mongodb,figma,cpp,java,neovim,html,bash,git" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&theme=dark&locale=en&layout=compact" alt="ethics03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&theme=radical&locale=en&layout=compact" alt="ethics03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&theme=dark&locale=en" alt="ethics03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethics03&show_icons=true&theme=radical&locale=en" alt="ethics03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&theme=dark" alt="ethics03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&theme=radical" alt="ethics03" /></p>
 
 
