@@ -37,9 +37,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&theme=radical" alt="ethics03" /></p>
 
-<div style="display: flex;">
+
  
  <h3>Discord Activity: </h3>
  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/747712461448151154?bg=00000000"/>
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316j3nlkmu4xkzgrztpgahbk6nre&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
- </div>
+
