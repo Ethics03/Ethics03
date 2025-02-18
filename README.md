@@ -26,6 +26,11 @@
 <a href="https://www.linkedin.com/in/rachit-srivastava-3b764527a/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height='30' width = '30' /></a>
 </p>
 
+<h3 align="left">Operating Systems:</h3>
+<p align="left"> 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch,mint,redhat,ubuntu,windows" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,go,css,tailwind,react,nextjs,nestjs,nodejs,docker,prisma,postgres,mongodb,figma,cpp,java,neovim,html,bash,git" /></a>
