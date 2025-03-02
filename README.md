@@ -42,9 +42,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethics03&theme=radical" alt="ethics03" /></p>
 
-
-<h3>Discord Activity: </h3>
-<img align="center" src="https://lanyard-profile-readme.vercel.app/api/747712461448151154?bg=00000000">
+<br>
+<details>
+  <summary>:zap: Discord Status</summary>
+</br>
+<a href="https://discord.com/users/747712461448151154">
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/747712461448151154.png" />
+</a>
+</details>
 
 
 
