@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,go,css,tailwind,react,nextjs,nestjs,nodejs,docker,prisma,postgres,mongodb,cpp,java,neovim,bash,git" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,go,css,tailwind,react,nextjs,nestjs,nodejs,docker,prisma,postgres,mongodb,cpp,neovim,bash,git" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethics03&show_icons=true&theme=radical&locale=en&layout=compact" alt="ethics03" /></p>
