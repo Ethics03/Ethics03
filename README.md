@@ -28,7 +28,7 @@
 
 <h3 align="left">Operating Systems:</h3>
 <p align="left"> 
-<a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch,fedora,redhat,mint,debian,ubuntu&perline=3" /></a>
+<a href="https://skillicons.dev"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,arch,redhat,mint,debian,ubuntu&perline=3" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
