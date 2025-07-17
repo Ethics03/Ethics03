@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently into **Full-Stack WebDev & DevOps.**
  
-- 💡 Currently building **[blud](https://github.com/blud-sh/blud-backend)** 
+- 💡 Currently building **[blud](https://github.com/blud-sh)** 
 
 - 💬 Ask me about **DevOps and CyberSec.**
 
