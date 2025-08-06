@@ -12,7 +12,7 @@
  
 - 💡 Currently building **[blud](https://github.com/blud-sh)** 
 
-- 💬 Ask me about **DevOps and CyberSec.**
+- 💬 Ask me about **DevOps and Cloud.**
 
 - 🤖 Grinding Leetcode.
 
