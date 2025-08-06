@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/___rachit___" target="blank"><img src="https://img.shields.io/twitter/follow/___rachit___?logo=twitter&style=for-the-badge" alt="___rachit___" /></a> </p>
 
-- 🌱 I’m currently into **Full-Stack WebDev & DevOps.**
+- 🌱 I’m currently into **Backend Development & DevOps.**
  
 - 💡 Currently building **[blud](https://github.com/blud-sh)** 
 
